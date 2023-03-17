@@ -11,16 +11,16 @@
 
 Hi, I'm [Edwin Chebii!](https://edcheyjr.github.io/my-portfolio/), a passionate Full Stack Developer.
 
-<img align="right" alt="GIF" src="./ui-dev.gif" width="400" height="320" />
+<img align="right" style="margin-left:5px;" alt="GIF" src="./ui-dev.gif" width="360" height="300" />
 
 **Talking about Personal Stuffs:**
 
 - 👀 I’m interested in web dev ,app dev and machine learning...
 - 💞️ I’m looking to collaborate on any project idea you might have in mind ...
-- 😎 look me up at https://edcheyjr.github.io/my-portfolio/ to know more about me
-- 👨🏽‍💻 I’m currently working on cool apps for Neurallabs :wink: ;
+- 😎 look me up at https://edcheyjr.github.io/my-portfolio/ to know more about me.
+- 👨🏽‍💻 I’m currently working on cool apps for Neurallabs 😉
 - 🌱 I’m currently learning tensorflow, nlp, computer-vision, rust ...
-- 💬 Ask me about anything, I am happy to help ;
+- 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me edwinchebiikibet@gmail.com or edcheyjr@gmail.com 
 - 📝 [Resume](https://drive.google.com/file/d/1U17p7XPgfq_B0tqHcvSpncf3DhCg26I3/view?usp=sharing)
 
