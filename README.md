@@ -11,7 +11,7 @@
 
 Hi, I'm [Edwin Chebii!](https://edcheyjr.github.io/my-portfolio/), a passionate Full Stack Developer.
 
-<img align="right" alt="GIF" src="https://github.com/edcheyjr/edcheyjr/ui-dev.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="./ui-dev.gif" width="400" height="320" />
 
 **Talking about Personal Stuffs:**
 
