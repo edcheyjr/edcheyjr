@@ -22,6 +22,7 @@ Hi, I'm [Edwin Chebii!](https://edcheyjr.github.io/my-portfolio/), a passionate 
 - 🌱 I’m currently learning tensorflow, nlp, computer-vision, rust ...
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me edwinchebiikibet@gmail.com or edcheyjr@gmail.com 
+- 💻 [Previous Works](https://drive.google.com/drive/folders/12UII4MpMblo8tvFpUYGGoxI8UIuovlCP?usp=sharing)
 - 📝 [Resume](https://drive.google.com/file/d/1U17p7XPgfq_B0tqHcvSpncf3DhCg26I3/view?usp=sharing)
 
 ```tsx
