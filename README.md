@@ -13,6 +13,8 @@ Hi, I'm [Edwin Chebii!](https://edcheyjr.github.io/my-portfolio/), a passionate 
 
 <img align="right" style="margin-left:5px;" alt="GIF" src="./ui-dev.gif" width="360" height="300" />
 
+<h4 style="color:#1cc95a">Currently listening</h4>
+
 **Talking about Personal Stuffs:**
 
 - 👀 I’m interested in web dev ,app dev and machine learning...
