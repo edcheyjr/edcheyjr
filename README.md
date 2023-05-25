@@ -15,7 +15,7 @@ Hi, I'm [Edwin Chebii!](https://edcheyjr.github.io/my-portfolio/), a passionate 
 
 <h4 style="color:#1cc95a">🎵 Currently listening</h4>
 
-<div>
+<div align="right" style="margin-left:5px;" width="360" height="300">
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   
