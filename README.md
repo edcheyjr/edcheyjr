@@ -58,7 +58,8 @@ export default Profile;
 edcheyjr/edcheyjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-** [🎵 Currently listening](https://spotify-github-profile.vercel.app/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&redirect=true) **
+
+**[🎵 Currently listening](https://spotify-github-profile.vercel.app/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&redirect=true)**
 
 <div style="margin-left:5px;" width="360" height="300">
   
