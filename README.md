@@ -14,7 +14,7 @@ Hi, I'm [Edwin Chebii!](https://edcheyjr.github.io/my-portfolio/), a passionate 
 <img align="right" style="margin-left:5px;" alt="GIF" src="./ui-dev.gif" width="360" height="300" />
 
 <h4 style="color:#1cc95a">🎵 Currently listening</h4>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shaqdeff&cover_image=true&theme=default&bar_color=8a938a)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edchey&cover_image=true&theme=default&bar_color=8a938a)](https://github.com/kittinan/spotify-github-profile)
 
 
 **Talking about Personal Stuffs:**
