@@ -59,18 +59,37 @@ edcheyjr/edcheyjr is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-**[🎵 Currently listening](https://spotify-github-profile.vercel.app/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&redirect=true)**
 
-<div style="margin-left:5px;" width="360" height="300">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&cover_image=true&theme=default&show_offline=false&background_color=161b22&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
-**[Do you know or follow S.O.L.I.D Principle?](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)**
-| Principle                      | Description                                                                                            |
-|--------------------------------|--------------------------------------------------------------------------------------------------------|
-| Single Responsibility Principle| Each class should be responsible for a single part or functionality of the system.                     |
-| Open-Closed Principle          | Software components should be open for extension, but not for modification.                            |
-| Liskov Substitution Principle  | Objects of a superclass should be replaceable with objects of its subclasses without breaking the system.|
-| Interface Segregation Principle| No client should be forced to depend on methods that it does not use.                                   |
-| Dependency Inversion Principle | High-level modules should not depend on low-level modules, both should depend on abstractions.         |
+#### **[Do you know or follow S.O.L.I.D Principle 🤔?](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)**    
+
+<table>
+  <tr>
+    <th>Principle</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Single Responsibility Principle</td>
+    <td>Each class should be responsible for a single part or functionality of the system.</td>
+  </tr>
+  <tr>
+    <td>Open-Closed Principle</td>
+    <td>Software components should be open for extension, but not for modification.</td>
+  </tr>
+  <tr>
+    <td>Liskov Substitution Principle</td>
+    <td>Objects of a superclass should be replaceable with objects of its subclasses without breaking the system.</td>
+  </tr>
+  <tr>
+    <td>Interface Segregation Principle</td>
+    <td>No client should be forced to depend on methods that it does not use.</td>
+  </tr>
+  <tr>
+    <td>Dependency Inversion Principle</td>
+    <td>High-level modules should not depend on low-level modules, both should depend on abstractions.</td>
+  </tr>
+</table>
+
+
 
