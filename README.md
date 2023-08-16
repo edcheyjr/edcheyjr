@@ -18,10 +18,10 @@ Hi, I'm [Edwin Chebii!](https://edcheyjr.github.io/my-portfolio/), a passionate 
 
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👀 I’m interested in web dev ,app dev and machine learning...
-- 💞️ I’m looking to collaborate on any project idea you might have in mind ...
+- 💞️ I’m looking to collaborate on any project you might have in mind ...
 - 😎 look me up at https://edcheyjr.github.io/my-portfolio/ to know more about me.
 - 👨🏽‍💻 I’m currently working on cool apps for Neurallabs 😉
 - 🌱 I’m currently learning tensorflow, nlp, computer-vision, rust ...
@@ -42,7 +42,7 @@ export default Profile;
 
 **Languages and Tools:**
 
-<!-- add - 👋 Hi, I’m @edcheyjr a fullstack dev proficient in python, php, android, java, javascript, css ,tailwindcss, laravel and react
+<!-- add - 👋 Hi, I’m @edcheyjr a full-stack dev proficient in python, PHP, android, java, javascript, CSS ,tailwindcss, laravel, and react
  -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
