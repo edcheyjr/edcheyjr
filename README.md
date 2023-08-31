@@ -44,16 +44,19 @@ export default Profile;
 
 <!-- add - 👋 Hi, I’m @edcheyjr a full-stack dev proficient in python, PHP, android, java, javascript, CSS ,tailwindcss, laravel, and react
  -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="typescript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" alt="graphql"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="tailwindcss"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/archive/8/8e/20230404233502%21Nextjs-logo.svg" alt="nextjs"></code>
+<code><img height="20" src="https://commons.wikimedia.org/wiki/Category:Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg" alt="rust lang"></code>
 <!---
 edcheyjr/edcheyjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -61,6 +64,8 @@ You can click the Preview link to take a look at your changes.
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&cover_image=true&theme=default&show_offline=false&background_color=161b22&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+![](https://github.com/futursolo/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/futursolo/github-stats/blob/master/generated/languages.svg)
 
 #### **[Do you know or follow S.O.L.I.D Principle 🤔?](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)**    
 
