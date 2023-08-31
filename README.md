@@ -55,7 +55,7 @@ export default Profile;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/archive/8/8e/20230404233502%21Nextjs-logo.svg" alt="nextjs"></code>
+<code><img height="20" src="./svg/nextjs.svg" alt="nextjs"></code>
 <code><img height="20" src="./svg/rust.svg" alt="rust lang"></code>
 <!---
 edcheyjr/edcheyjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
