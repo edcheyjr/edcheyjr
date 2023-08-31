@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm [Edwin Chebii!]( https://my-portfolio-edcheyjr.vercel.app/), a passionate Full Stack Developer.
+Hi, I'm [Edwin Chebii!](https://edcheyjr.vercel.app/), a passionate Full Stack Developer.
 
 <img align="right" style="margin-left:5px;" alt="GIF" src="./ui-dev.gif" width="360" height="300" />
 
@@ -22,7 +22,7 @@ Hi, I'm [Edwin Chebii!]( https://my-portfolio-edcheyjr.vercel.app/), a passionat
 
 - 👀 I’m interested in web dev ,app dev and machine learning...
 - 💞️ I’m looking to collaborate on any project you might have in mind ...
-- 😎 look me up at https://my-portfolio-edcheyjr.vercel.app/ to know more about me.
+- 😎 look me up at https://edcheyjr.vercel.app/ to know more about me.
 - 👨🏽‍💻 I’m currently working on cool apps for Neurallabs 😉
 - 🌱 I’m currently learning nlp, computer-vision, rust, wasm ...
 - 💬 Ask me about anything, I am happy to help.
