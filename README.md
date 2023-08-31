@@ -56,7 +56,7 @@ export default Profile;
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/archive/8/8e/20230404233502%21Nextjs-logo.svg" alt="nextjs"></code>
-<code><img height="20" src="https://commons.wikimedia.org/wiki/Category:Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg" alt="rust lang"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust lang"></code>
 <!---
 edcheyjr/edcheyjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
