@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&cover_image=true&theme=default&show_offline=false&background_color=161b22&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&cover_image=true&theme=default&show_offline=false&background_color=161b22&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&redirect=true)
 
 #### **[Do you know or follow S.O.L.I.D Principle 🤔?](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)**    
 
