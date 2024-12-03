@@ -11,7 +11,7 @@
 
 Hi, I'm [Edwin Chebii!](https://edcheyjr.vercel.app/), a passionate Full Stack Developer.
 
-<img align="right" style="margin-left:5px;" alt="GIF" src="./ui-dev.gif" width="360" height="300" />
+<img align="right" style="margin-left:5px;width:100%;height:auto;" alt="GIF" src="./crazy-dev.gif"  />
 
 
 
