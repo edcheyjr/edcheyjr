@@ -27,7 +27,7 @@ Hi, I'm [Edwin Chebii!](https://edcheyjr.vercel.app/), a passionate Full Stack D
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me edwinchebiikibet@gmail.com or edcheyjr@gmail.com 
 - 💻 [Previous Works](https://drive.google.com/drive/folders/12UII4MpMblo8tvFpUYGGoxI8UIuovlCP?usp=sharing)
-- 📝 [Resume](https://drive.google.com/file/d/1U17p7XPgfq_B0tqHcvSpncf3DhCg26I3/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1j5Sj-_laY5RIaZReN0whJWedoScU8bY4/view?usp=drive_link)
 
 ```tsx
 import React from 'react';
