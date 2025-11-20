@@ -41,7 +41,7 @@ export default Profile;
 
 **Languages and Tools:**
 
-<!-- add - 👋 Hi, I’m @edcheyjr a full-stack dev proficient in python, PHP, android, java, javascript, CSS ,tailwindcss, laravel, and react
+<!-- add - 👋 Hi, I’m @edcheyjr, a full-stack dev proficient in Python, PHP, Android, Java, JavaScript, CSS, TailwindCSS, Laravel, and React
  -->
 <code><img style="height: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img style="height: 20px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="typescript"></code>
@@ -58,7 +58,7 @@ export default Profile;
 <code><img style="height: 20px" src="./svg/rust.svg" alt="rust lang"></code>
 <!---
 edcheyjr/edcheyjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
 
 
