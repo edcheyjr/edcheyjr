@@ -23,9 +23,9 @@ Hi, I'm [Edwin Chebii!](https://edcheyjr.vercel.app/), a passionate Full Stack D
 - 💞️ I’m looking to collaborate on any project you might have in mind ...
 - 😎 look me up at https://edcheyjr.vercel.app/ to know more about me.
 - 👨🏽‍💻 I’m currently working on cool apps for AnagramTech 😉
-- 🌱 I’m currently learning computer vision, Rust, WASM & GO...
+- 🌱 I’m currently learning computer vision, WASM & GO...
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me edwinchebiikibet@gmail.com or edcheyjr@gmail.com 
+- 📫 How to reach me edwinchebiikibet@gmail.com 
 - 💻 [Previous Works](https://drive.google.com/drive/folders/12UII4MpMblo8tvFpUYGGoxI8UIuovlCP?usp=sharing)
 - 📝 [Resume](https://drive.google.com/file/d/1j5Sj-_laY5RIaZReN0whJWedoScU8bY4/view?usp=drive_link)
 
