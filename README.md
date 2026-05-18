@@ -11,7 +11,6 @@
 
 Hi, I'm [Edwin Chebii!](https://edcheyjr.vercel.app/), a passionate Full Stack Developer.
 
-<!-- <img align="right" style="margin-left:5px;width:auto;height:100%;" alt="GIF" src="./crazy-dev.gif"  /> -->
 
 
 
@@ -22,12 +21,14 @@ Hi, I'm [Edwin Chebii!](https://edcheyjr.vercel.app/), a passionate Full Stack D
 - 👀 I’m interested in software dev, blockchain technologies, and ML...
 - 💞️ I’m looking to collaborate on any project you might have in mind ...
 - 😎 look me up at https://edcheyjr.vercel.app/ to know more about me.
-- 👨🏽‍💻 I’m currently working on cool apps for AnagramTech 😉
+- 👨🏽‍💻 I’m currently working on cool apps for ZaprackTech 😉
 - 🌱 I’m currently learning computer vision, WASM & GO...
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me edwinchebiikibet@gmail.com 
 - 💻 [Previous Works](https://drive.google.com/drive/folders/12UII4MpMblo8tvFpUYGGoxI8UIuovlCP?usp=sharing)
 - 📝 [Resume](https://drive.google.com/file/d/1j5Sj-_laY5RIaZReN0whJWedoScU8bY4/view?usp=drive_link)
+
+<img align="right" style="margin-left:5px;width:auto;height:100%;" alt="GIF" src="./crazy-dev.gif"  /> 
 
 ```tsx
 import React from 'react';
