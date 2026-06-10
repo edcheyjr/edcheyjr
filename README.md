@@ -63,7 +63,7 @@ You can click the Preview link to view your changes.
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&cover_image=true&theme=default&show_offline=false&background_color=161b22&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jtlgayr7d4cugxc531ggc6a2j&redirect=true)
-<img align="right" style="margin-left:5px;width:auto;height:100%;" alt="GIF" src="./crazy-dev.gif"  /> 
+<!-- <img align="right" style="margin-left:5px;width:auto;height:100%;" alt="GIF" src="./crazy-dev.gif"  />  -->
 
 
 #### **[Do you know or follow S.O.L.I.D Principle 🤔?](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)**    
