@@ -66,34 +66,5 @@ You can click the Preview link to view your changes.
 <!-- <img align="right" style="margin-left:5px;width:auto;height:100%;" alt="GIF" src="./crazy-dev.gif"  />  -->
 
 
-#### **[Do you know or follow S.O.L.I.D Principle 🤔?](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)**    
-
-<table>
-  <tr>
-    <th>Principle</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>Single Responsibility Principle</td>
-    <td>Each class should be responsible for a single part or functionality of the system.</td>
-  </tr>
-  <tr>
-    <td>Open-Closed Principle</td>
-    <td>Software components should be open for extension, but not for modification.</td>
-  </tr>
-  <tr>
-    <td>Liskov Substitution Principle</td>
-    <td>Objects of a superclass should be replaceable with objects of its subclasses without breaking the system.</td>
-  </tr>
-  <tr>
-    <td>Interface Segregation Principle</td>
-    <td>No client should be forced to depend on methods that it does not use.</td>
-  </tr>
-  <tr>
-    <td>Dependency Inversion Principle</td>
-    <td>High-level modules should not depend on low-level modules, both should depend on abstractions.</td>
-  </tr>
-</table>
-
 
 
